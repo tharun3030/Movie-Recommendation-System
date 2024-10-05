@@ -42,7 +42,7 @@ The system uses a dataset containing movie details such as:
 - Production companies
 - Spoken languages
 - Popularity and runtime
-Reference : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download
+- Reference : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download
 ## Contributing
 Feel free to open a pull request or issue if you'd like to contribute to this project.
 
